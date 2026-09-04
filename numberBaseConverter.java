@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class numberBaseConverter {
-    /*public static void main(String[] args) {
+    public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter number you want to convert");
         String input = sc.nextLine();
@@ -12,5 +12,5 @@ public class numberBaseConverter {
         int decimal = Integer.parseInt(input, base);
         String result = Integer.toString(decimal,base2).toUpperCase();
         System.out.println(result);
-    }*/
+    }
 }
