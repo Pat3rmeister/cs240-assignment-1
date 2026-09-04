@@ -15,12 +15,12 @@ Test boundary cases, including zero, the largest supported unsigned value, and a
 import java.util.Scanner;
 
 public class Main {
-    /*public static void main(String[] args) {
+    public static void main(String[] args) {
         Scanner sc =  new Scanner(System.in);
         System.out.println("Enter the String");
         String name = sc.nextLine();
         for (int x=0; x<name.length(); x++){
             System.out.println((int) name.charAt(x));
         }
-    }*/
+    }
 }
